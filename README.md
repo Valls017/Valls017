@@ -35,13 +35,11 @@
 ## Programming Languages
 
 <p>
-    <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
-    <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
-    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
+    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white"></a>
+    <a href="#"><img alt="RStudio" src="https://img.shields.io/badge/RStudio-%235A9FD4.svg?logo=rstudio&logoColor=white"></a>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white"></a>
 </p>
+
 
 ## Frameworks and Libraries
 <p>
@@ -53,7 +51,7 @@
 <p>
 	<a href="#"><img alt="Kali" src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white"></a>
 	<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
-	<a href="#"><img alt="Apple" src="https://img.shields.io/badge/mac%20os-000000?logo=apple&logoColor=white"></a>
+	
 	
 </p>
 
@@ -61,17 +59,18 @@
 <p>
 	<a href="#"><img alt="Brave" src="https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=white"></a>
 	<a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Google_chrome-4285F4?logo=Google-Chrome&logoColor=white"></a>
-	<a href="#"><img alt="Safari" src="https://img.shields.io/badge/Safari-FF1B2D?logo=Safari&logoColor=white"></a>
 	<a href="#"><img alt="Edge" src="https://img.shields.io/badge/Microsoft_Edge-0078D7?logo=Microsoft-edge&logoColor=white"></a>
 </p>
 
 ## Databases and Cloud hosting
 
 <p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
-    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Xampp%20-%23430098.svg?logo=xampp&logoColor=white"></a>
-</p> 
+    <a href="#"><img alt="XAMPP" src="https://img.shields.io/badge/XAMPP-%23FB7A24.svg?logo=xampp&logoColor=white"></a>
+    <a href="#"><img alt="Microsoft Access" src="https://img.shields.io/badge/Microsoft%20Access-%23A4373A.svg?logo=microsoft-access&logoColor=white"></a>
+    <a href="#"><img alt="SQL Server Management Studio" src="https://img.shields.io/badge/SQL%20Server%20Management%20Studio-%23CC2927.svg?logo=microsoft-sql-server&logoColor=white"></a>
+    <a href="#"><img alt="MySQL Workbench" src="https://img.shields.io/badge/MySQL%20Workbench-%234479A1.svg?logo=mysql&logoColor=white"></a>
+</p>
+ 
 
 ## Software and Tools
 <p>
@@ -104,4 +103,4 @@
 
 ------
 [Jaydeep-Yadav](https://github.com/jaydeep-yadav)
-Last Edited on - 11/10/2021
+
