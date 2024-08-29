@@ -2,27 +2,28 @@
 
 ## Who am I?
 
- ```python
-  class WhoAmI:
-    user = 'Jaydeep Yadav'
-	current_edu = "CSIT"
-    currently_learning = "Javascript"
-    fun_fact = "I hate Chillies"
-	hobbies = [
-				'Music',
-                         'Chilling',
-			 	'Gaming',
-				'Sci-Fi Movies'
-			]
-	
-	def getCity():
-		return Chhattisgarh_India()
-	
-	def Ambitions():
-		BecomeSoftwareEngineer()
-		FinishMyProjects()
-	
- ```
+ public class WhoAmI {
+    String user = "Valls-";
+    String currentEdu = "UMSS";
+    String currentlyLearning = "Java,C,Python";
+    String funFact = "I like to sleep a lot";
+    String[] hobbies = {
+            "Music",
+            "Chilling",
+            "Gaming",
+            "TechTuber"
+    };
+
+    public String getCity() {
+        return "Cochabamba, Bolivia";
+    }
+
+    public void Ambitions() {
+        System.out.println("Become a Hacker");
+        System.out.println("Finish My Degree At My University");
+    }
+}
+
 
  
 ## Github Stats
