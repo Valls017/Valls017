@@ -5,7 +5,7 @@
  	public class WhoAmI {
     String user = "Valls-";
     String currentEdu = "UMSS";
-    String currentlyLearning = "Java,C,Python";
+    String currentlyLearning = "Java,C,Python,Rstudio";
     String funFact = "I like to sleep a lot";
     String[] hobbies = {
             "Music",
