@@ -3,15 +3,15 @@
 ## Who am I?
 	
  	public class WhoAmI {
-    String user = "Valls-";
-    String currentEdu = "UMSS";
-    String currentlyLearning = "Java,C,Python,Rstudio";
-    String funFact = "I like to sleep a lot";
+    String user = "Marcelo Vallejos Tinta";
+    String currentEdu = "Ingeniería Informática - UMSS";
+    String currentlyLearning = "Java, Python, JavaScript, HTML/CSS, SQL";
+    String funFact = "I like to sleep a lot and analyze Wi-Fi network protocols.";
     String[] hobbies = {
-            "Music",
-            "Chilling",
+            "Texas Hold'em Poker",
             "Gaming",
-            "TechTuber"
+            "Motorcycles",
+            "Networks"
     };
 
     public String getCity() {
@@ -19,7 +19,7 @@
     }
 
     public void Ambitions() {
-        System.out.println("Become a Hacker");
+        System.out.println("Become a better version of myself");
         System.out.println("Finish My Degree At My University");
     }
 }
@@ -34,54 +34,55 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valls017&layout=compact&theme=github_dark"/>|
 
 
-## Programming Languages
-
+## 💻 Programming Languages
 <p>
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white"></a>
-    <a href="#"><img alt="RStudio" src="https://img.shields.io/badge/RStudio-%235A9FD4.svg?logo=rstudio&logoColor=white"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white"></a>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E"></a>
+    <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="#"><img alt="SQL" src="https://img.shields.io/badge/sql-%23003B57.svg?logo=sqlite&logoColor=white"></a>
+    <a href="#"><img alt="RStudio" src="https://img.shields.io/badge/RStudio-%235A9FD4.svg?logo=rstudio&logoColor=white"></a>
 </p>
 
-
-## Frameworks and Libraries
+## 🧰 Frameworks and Libraries
 <p>
    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
    <a href="#"><img alt="Tailwindcss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwindcss&logoColor=white"></a>
 </p>
 
-## Operating Systems
+## 🖥️ Operating Systems
 <p>
-	<a href="#"><img alt="Kali" src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white"></a>
-	<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
-	
-	
+    <a href="#"><img alt="Kali" src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white"></a>
+    <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
 </p>
 
-## Browsers
-<p>
-	<a href="#"><img alt="Brave" src="https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=white"></a>
-	<a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Google_chrome-4285F4?logo=Google-Chrome&logoColor=white"></a>
-	<a href="#"><img alt="Edge" src="https://img.shields.io/badge/Microsoft_Edge-0078D7?logo=Microsoft-edge&logoColor=white"></a>
-</p>
-
-## Databases and Cloud hosting
-
+## 🗄️ Databases and Cloud Hosting
 <p>
     <a href="#"><img alt="XAMPP" src="https://img.shields.io/badge/XAMPP-%23FB7A24.svg?logo=xampp&logoColor=white"></a>
     <a href="#"><img alt="Microsoft Access" src="https://img.shields.io/badge/Microsoft%20Access-%23A4373A.svg?logo=microsoft-access&logoColor=white"></a>
-    <a href="#"><img alt="SQL Server Management Studio" src="https://img.shields.io/badge/SQL%20Server%20Management%20Studio-%23CC2927.svg?logo=microsoft-sql-server&logoColor=white"></a>
+    <a href="#"><img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?logo=microsoft-sql-server&logoColor=white"></a>
     <a href="#"><img alt="MySQL Workbench" src="https://img.shields.io/badge/MySQL%20Workbench-%234479A1.svg?logo=mysql&logoColor=white"></a>
 </p>
- 
 
-## Software and Tools
+## ⚙️ Software and Tools
 <p>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   <a href="#"><img alt="BlueJ" src="https://img.shields.io/badge/BlueJ-%23000000.svg?logo=java&logoColor=white&labelColor=yellow"></a>
   <a href="#"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-%23008080.svg?logo=latex&logoColor=white"></a>
+  <a href="#"><img alt="Cisco" src="https://img.shields.io/badge/Cisco_Packet_Tracer-%231BA0D7.svg?logo=cisco&logoColor=white"></a>
 </p>
 
+## 🚀 Featured Projects
+
+| Proyecto | Descripción | Tecnologías |
+| :--- | :--- | :--- |
+| **[Asteroids Arcade Clone](https://github.com/Valls017/Juego_clasico_Asteroids)** | Versión clásica y pulida del mítico juego. Desarrollo enfocado en mecánicas fluidas, cero bugs y manipulación eficiente del DOM. | `JavaScript` `HTML5` `CSS3` |
+| **[Sistema de Inventario Comercial](#)** | Solución real para la gestión de catálogo, control de stock y precios diseñado para una tienda de cosméticos local. | `Java` `SQL` |
+| **[Portafolio Web / CV](#)** | Currículum interactivo y responsivo. Interfaz limpia y profesional con una paleta de colores neutra (gris y verde oscuro). | `HTML5` `CSS3` |
+| **[App Agencia Inmobiliaria](#)** | Desarrollo colaborativo de software para una aplicación móvil, con enfoque en la implementación funcional del módulo de mapas. | `Java` `Software Engineering` |
+| **[Análisis de Redes y Protocolos](#)** | Reportes técnicos estructurados (Site Survey Wi-Fi, análisis HDLC/CRC) y laboratorios de configuración de switches y VLANs. | `Cisco Packet Tracer` `LaTeX` |
 
 ## Connect with Me
 
