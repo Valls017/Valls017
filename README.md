@@ -78,11 +78,10 @@
 
 | Proyecto | Descripción | Tecnologías |
 | :--- | :--- | :--- |
-| **[Asteroids Arcade Clone](https://github.com/Valls017/Juego_clasico_Asteroids)** | Versión clásica y pulida del mítico juego. Desarrollo enfocado en mecánicas fluidas, cero bugs y manipulación eficiente del DOM. | `JavaScript` `HTML5` `CSS3` |
-| **[Sistema de Inventario Comercial](#)** | Solución real para la gestión de catálogo, control de stock y precios diseñado para una tienda de cosméticos local. | `Java` `SQL` |
-| **[Portafolio Web / CV](#)** | Currículum interactivo y responsivo. Interfaz limpia y profesional con una paleta de colores neutra (gris y verde oscuro). | `HTML5` `CSS3` |
-| **[App Agencia Inmobiliaria](#)** | Desarrollo colaborativo de software para una aplicación móvil, con enfoque en la implementación funcional del módulo de mapas. | `Java` `Software Engineering` |
-| **[Análisis de Redes y Protocolos](#)** | Reportes técnicos estructurados (Site Survey Wi-Fi, análisis HDLC/CRC) y laboratorios de configuración de switches y VLANs. | `Cisco Packet Tracer` `LaTeX` |
+| **[Juego_clasico_Asteroids](https://github.com/Valls017/Juego_clasico_Asteroids)** | Juego clásico de asteroides para la materia de Programación Web. Desarrollo enfocado en mecánicas fluidas, versión clásica y manipulación eficiente del DOM. | `JavaScript` `HTML` |
+| **[Calculadora-tdd](https://github.com/Valls017/Calculadora-tdd)** | Desarrollo de una calculadora aplicando el enfoque Test-Driven Development (TDD) en colaboración con el grupo codeTamer. | `Java` `Testing` |
+| **[Juego_grilla](https://github.com/Valls017/Juego_grilla)** | Proyecto frontend enfocado en la estructuración y diseño web. | `HTML`  |
+| **[antielfec](https://github.com/Valls017/antielfec)** | Herramienta diseñada para monitorear y calcular el consumo energético de electrodomésticos en el hogar, ayudando a los usuarios a economizar en sus facturas. | `Java` |
 
 ## Connect with Me
 
