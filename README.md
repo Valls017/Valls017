@@ -27,11 +27,19 @@
 
 
 
-## Github Stats
+## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Valls017&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Valls017&theme=blueberry_duo"/>
-|---|---|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valls017&layout=compact&theme=github_dark"/>|
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Valls017&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=Valls017&theme=github-dark-blue&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valls017&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
 
 ## 💻 Programming Languages
