@@ -26,33 +26,29 @@
 
 
 
-
+## Mis Estadísticas
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Mis Estadísticas
 
-<div align="center">
-
+<p align="center">
   <a href="https://github.com/Valls017">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Valls017&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6ad3f7&icon_color=6ad3f7&text_color=c9d1d9" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Valls017&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6ad3f7&icon_color=6ad3f7&text_color=c9d1d9&v=2" />
   </a>
-
   <a href="https://github.com/Valls017">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valls017&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6ad3f7&text_color=c9d1d9" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valls017&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6ad3f7&text_color=c9d1d9&v=2" />
   </a>
+</p>
 
-  <br/><br/>
-
+<p align="center">
   <a href="https://github.com/Valls017">
-    <img width="70%" src="https://streak-stats.demolab.com?user=Valls017&theme=tokyonight&hide_border=true&background=0D1117&stroke=6ad3f7&ring=6ad3f7&fire=ff6b6b&currStreakLabel=6ad3f7&sideLabels=6ad3f7&dates=8b949e" alt="GitHub Streak" />
+    <img width="70%" src="https://streak-stats.demolab.com?user=Valls017&theme=tokyonight&hide_border=true&background=0D1117&stroke=6ad3f7&ring=6ad3f7&fire=ff6b6b&currStreakLabel=6ad3f7&sideLabels=6ad3f7&dates=8b949e&v=2" alt="GitHub Streak" />
   </a>
+</p>
 
-  <br/><br/>
-
+<p align="center">
   <a href="https://github.com/Valls017">
-    <img src="https://github-profile-trophy.vercel.app/?username=Valls017&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Valls017&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&v=2" alt="GitHub Trophies" />
   </a>
-
-</div>
-
+</p>
 
 ## 💻 Programming Languages
 <p>
