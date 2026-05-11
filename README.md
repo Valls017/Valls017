@@ -51,17 +51,6 @@
 
 <br/><br/>
 
-  <a href="https://github.com/Valls017">
-    <img src="https://github-trophies.vercel.app/?username=Dauphinsss&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-  </a>
-
-<br/><br/>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valls017&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-
 ## 💻 Programming Languages
 <p>
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white"></a>
