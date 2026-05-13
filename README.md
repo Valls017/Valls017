@@ -30,14 +30,16 @@
 ## GitHub Stats
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Mis Estadísticas
 
+
+
   
 
-
-  <a href="https://github.com/Valls017">
-    <img width="70%" src="https://github-readme-streak-stats-eight.vercel.app/?user=Dauphinsss&theme=tokyonight&hide_border=true&background=0D1117&stroke=6ad3f7&ring=6ad3f7&fire=ff6b6b&currStreakLabel=6ad3f7&sideLabels=6ad3f7&dates=8b949e" alt="GitHub Streak"/>
-  </a>
-
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=Valls017&theme=github-dark-blue&hide_border=true" />
+</p>
 <br/><br/>
+
+
 
 ## 💻 Programming Languages
 <p>
